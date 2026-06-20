@@ -1,9 +1,9 @@
 [
   {
-    "title": "Lead 1.4.2 is ready!",
-    "message": "• Added: Send videos as voice messages (with waveform)\n• Fixed: Voice button overlapping round video button in Swiftgram\n• Fixed: Private message button disappeared in channels\n• Fixed: App startup lag\n• Fixed: Waveform bars were too large and uniform\n• Fixed: Ghost Exceptions now correctly shows name/username",
+    "title": "Lead 1.4.3 is ready!",
+    "message": "• Fixed: False \"edited\" badge appearing on reactions and normal sends\n• Fixed: Anti-Revoke not working in groups and channels\n• Fixed: One-time media badge reverting to normal after leaving and re-entering a chat\n• Updated hooks for the latest Telegram version",
     "type": "update",
-    "url": "https://t.me/Leadgramm/67",
-    "target_version": "1.4.2"
+    "url": "https://t.me/Leadgramm/74",
+    "target_version": "1.4.3"
   }
 ]
